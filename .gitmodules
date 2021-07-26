@@ -1,3 +1,12 @@
 [submodule "ExpenseReimbursement"]
 	path = ExpenseReimbursement
 	url = https://github.com/jkgmr13/ExpenseReimbursement.git
+[submodule "ExpenseReimbursementBackend"]
+	path = ExpenseReimbursementBackend
+	url = https://github.com/jkgmr13/ExpenseReimbursementBackend.git
+[submodule "ExpenseReimbursementFrontend"]
+	path = ExpenseReimbursementFrontend
+	url = https://github.com/jkgmr13/ExpenseReimbursementFrontend.git
+[submodule "ExpenseReimbursementE2E"]
+	path = ExpenseReimbursementE2E
+	url = https://github.com/jkgmr13/ExpenseReimbursementE2E.git
